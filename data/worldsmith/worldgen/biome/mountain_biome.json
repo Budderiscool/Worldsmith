@@ -1,0 +1,65 @@
+{
+  "type": "minecraft:multi_noise",
+  "biomes": [
+    {
+      "biome": "minecraft:stony_peaks",
+      "parameters": {
+        "temperature": 0.6,
+        "humidity": 0.2,
+        "continentalness": 0.8,
+        "erosion": 0.1,
+        "weirdness": 0.0,
+        "depth": 0.5,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "minecraft:jagged_peaks",
+      "parameters": {
+        "temperature": 0.1,
+        "humidity": 0.1,
+        "continentalness": 0.9,
+        "erosion": 0.05,
+        "weirdness": 0.0,
+        "depth": 0.8,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "minecraft:frozen_peaks",
+      "parameters": {
+        "temperature": -0.2,
+        "humidity": 0.1,
+        "continentalness": 0.9,
+        "erosion": 0.05,
+        "weirdness": 0.0,
+        "depth": 0.9,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "minecraft:deep_ocean",
+      "parameters": {
+        "temperature": 0.5,
+        "humidity": 0.5,
+        "continentalness": -0.9,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    },
+    {
+      "biome": "minecraft:deep_frozen_ocean",
+      "parameters": {
+        "temperature": -0.5,
+        "humidity": 0.5,
+        "continentalness": -0.8,
+        "erosion": 0.5,
+        "weirdness": 0.0,
+        "depth": 0.0,
+        "offset": 0.0
+      }
+    }
+  ]
+}
